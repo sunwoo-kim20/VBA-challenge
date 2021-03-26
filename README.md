@@ -1,2 +1,2 @@
 # VBA-challenge
-Repository for submission of UCI DA Bootcamp-Homework 2
+Repository for VBA challenge submission
